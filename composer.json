@@ -1,0 +1,43 @@
+{
+  "name": "itez-payments/payment-sdk-php",
+  "description": "itez payments SDK",
+  "type": "library",
+  "version": "1.0.0",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "ItezPayments\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "ItezPayments\\Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "php": "^7.2|^8.0",
+    "ext-json": "*",
+    "guzzlehttp/guzzle": "^6.3 || ^7.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^8.5 || ^9.5"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/itez-payments/payments-sdk-php"
+    }
+  ],
+  "keywords": [
+    "itez",
+    "itez-payments",
+    "sdk",
+    "payments"
+  ],
+  "replace": {},
+  "funding": [],
+  "readme": "./README.MD",
+  "license": "MIT",
+  "homepage": ""
+}

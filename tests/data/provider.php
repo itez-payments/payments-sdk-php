@@ -1,0 +1,21 @@
+<?php
+
+return [
+    'apiKey'     => 'w7JkRrkC7DwPqaJDjNufvBKgdfC4ukHm',
+    'privateKey' => '-----BEGIN RSA PRIVATE KEY-----
+MIICXAIBAAKBgQDJaHilmfVIXvtKCpPFN0swRm6ryFo3ibPZkXmOieP4nkWiNnKC
+JRG8DDzArh4/tQjp2n3Oqz58Adfg2EGqQHBsMNnMJXl5Qup8oipv34E6BXH6uxXD
+ehtPp2xQo+lOsC0tOqoCjVhYvwKnapX2q5TJY9KSsA5U4cgHaFKw3FFUFwIDAQAB
+AoGAYMctac1/2iWhs+M/PD2kiG7fkPW1vAgT/pBzi3VgsL9EkHx/K2AqlGSA8Mj5
+yfzwaoZNe3g3jxjHpcfkTa2nFssz1Ccjj0+h9Z9Jaw8goVPiv/0Kr6p76H1Q7/oJ
+V+bJwlKtGbrdBFTuwiEQSvyN+BHwMWziD/dV2wuxQbNVx/kCQQDtrPeKlJXPWFm8
+y93H+h7qc8Me1sLpFcIlRF/UASLiNAOMC/oB1bZsS+mEHozl+C/lYYIBWmv6phRh
+33PsQf3rAkEA2O+v5LPQ+ufEsx8xGMH/vwJhZYvwuq4CK5d47fEty5Hc4Yktq/sV
+nQPU3fOe1UkOyMgzQ432oUl8twY8snn7hQJAMAUHSnd0wRyvnMZvu6ycPHBBFuT7
+Ik6kGBV1awcDvkIWCWCOFXrRTZYUyv3FJ916B9UoiA91y4Fsks2rxSscGwJBALyN
+R7JeYCtUOvD9EW1VYPYiGYlrYma/S3+b/i3BzG39b6BP3PR4HccFR4VKdCkpgMIe
+z//Naimxd8aUkzkFMQkCQH8zBUpeqWDJ9rgMOSFDTfYqUxd/Fuy4NzvFJ6t/t4JM
+GVmo4x4D4PkL+2A9qaUs1IHJyWBZze5UiOdCY8bgl7U=
+-----END RSA PRIVATE KEY-----',
+    // 'signature' => '/3TrhHVz9BHaLfgLyhoxO7dsQNzbzZa/TdO3pxQocXWwgVM6tGlzMLVfpOxFNTnkR9iiFVK/77ZedMcbkCjmng==',
+];
